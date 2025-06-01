@@ -10,7 +10,7 @@ This repo contains the 75 most frequently asked LeetCode questions at top tech c
 - [x] = Completed
 
 ### **1. Arrays & Hashing**
-- [ ] [1. Two Sum](https://leetcode.com/problems/two-sum/)
+- [x] [1. Two Sum](https://leetcode.com/problems/two-sum/)
 - [ ] [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 - [ ] [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 

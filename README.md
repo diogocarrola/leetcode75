@@ -1,30 +1,40 @@
 # LeetCode 75 Essentials 🧑‍💻
 **The minimal set of problems to pass coding interviews**
-This repo contains the 75 most frequently asked LeetCode questions at top tech companies. Solve these, and you’ll cover nearly every pattern interviewers test.
+[![Progress](https://img.shields.io/badge/Progress-1%2F75-blue)](PROGRESS.md)
+[![Solutions](https://img.shields.io/badge/Solutions-0%20languages-green)](PROBLEMS.md)
 
----
+This repo contains the 75 most frequently asked LeetCode questions at top tech companies. Solve these, and you'll cover nearly every pattern interviewers test.
 
 ## ✅ **Progress Checklist**
 **Instructions**:
 - [ ] = Not started
 - [x] = Completed
 
-### **1. Arrays & Hashing**
-- [x] [1. Two Sum](https://leetcode.com/problems/two-sum/)
-- [ ] [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
-- [ ] [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+### **Array**
+- [ ] [Two Sum](https://leetcode.com/problems/two-sum/) - Hash Map
+- [ ] [Best Time to Buy/Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) - Sliding Window
+- [ ] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) - Hash Set
+- [ ] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) - Prefix/Suffix
+- [ ] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) - Kadane's Algorithm
+- [ ] [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) - DP
+- [ ] [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) - Binary Search
+- [ ] [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) - Binary Search
+- [ ] [3Sum](https://leetcode.com/problems/3sum/) - Two Pointers
+- [ ] [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) - Two Pointers
 
-### **2. Two Pointers**
-- [ ] [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
-- [ ] [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
+### **Binary**
+- [ ] [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) - Bit Manipulation
+- [ ] [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) - Bit Count
+- [ ] [Counting Bits](https://leetcode.com/problems/counting-bits/) - DP + Bits
+- [ ] [Missing Number](https://leetcode.com/problems/missing-number/) - XOR
+- [ ] [Reverse Bits](https://leetcode.com/problems/reverse-bits/) - Bit Manipulation
 
-*(Full list continues below...)*
-
----
+(continued)
 
 ## 🚀 **How to Use This Repo**
 1. **Study Order**:
-   - Start with **Arrays/Hashing** → **Two Pointers** → **Trees** → **Graphs** → **DP**
+   - Follow the order in [PROGRESS.md](PROGRESS.md) for optimal learning.
+   - Start with Arrays, then move to Binary, Dynamic Programming, etc.
    - Allocate 1-2 days per problem (30 mins solving, 30 mins reviewing solutions).
 
 2. **For Each Problem**:
@@ -38,14 +48,10 @@ This repo contains the 75 most frequently asked LeetCode questions at top tech c
      ```
 
 3. **Track Progress**:
-   - Update the checklist above with `[x]` when done.
-   - Revisit checked problems weekly to reinforce patterns.
-
----
+   - Update the progress checklist in [PROGRESS.md](PROGRESS.md).
+   - Review checked problems regularly to reinforce learning.
 
 ## 🔥 **Why These 75 Problems?**
-- **Data-Driven**: Selected from top companies’ interview frequency.
-- **Pattern-Centric**: Grouped by techniques (e.g., sliding window, DFS).
-- **Time-Efficient**: Covers 90% of interview question patterns.
-
-**Need the full list?** See [PROBLEMS.md](PROBLEMS.md) for all 75 with links.
+- **Data-Driven**: Selected from top companies' interview frequency
+- **Pattern-Centric**: Grouped by techniques (e.g., sliding window, DFS)
+- **Time-Efficient**: Covers 90% of interview question patterns

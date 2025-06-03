@@ -1,7 +1,5 @@
 # LeetCode 75 Essentials 🧑‍💻
 **The minimal set of problems to pass coding interviews**
-[![Progress](https://img.shields.io/badge/Progress-1%2F75-blue)](PROGRESS.md)
-[![Solutions](https://img.shields.io/badge/Solutions-0%20languages-green)](PROBLEMS.md)
 
 This repo contains the 75 most frequently asked LeetCode questions at top tech companies. Solve these, and you'll cover nearly every pattern interviewers test.
 
@@ -29,7 +27,7 @@ This repo contains the 75 most frequently asked LeetCode questions at top tech c
 - [ ] [Missing Number](https://leetcode.com/problems/missing-number/) - XOR
 - [ ] [Reverse Bits](https://leetcode.com/problems/reverse-bits/) - Bit Manipulation
 
-(continued)
+(full list continues in [PROGRESS.md](PROGRESS.md))
 
 ## 🚀 **How to Use This Repo**
 1. **Study Order**:

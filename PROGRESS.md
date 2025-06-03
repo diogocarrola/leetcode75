@@ -1,7 +1,7 @@
 # LeetCode 75 Progress Tracker
 
 ## 🔄 **Recommended Study Order**
-1. Arrays → 2. Binary → 3. Dynamic Programming → 4. Graphs → 5. Intervals → 6. Linked Lists → 7. Matrix → 8. Strings → 9. Trees → 10. Heap
+    1. Arrays → 2. Binary → 3. Dynamic Programming → 4. Graphs → 5. Intervals → 6. Linked Lists → 7. Matrix → 8. Strings → 9. Trees → 10. Heap
 
 ## ✅ **Progress Checklist**
 ### **Array**

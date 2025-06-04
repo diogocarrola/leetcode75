@@ -9,23 +9,23 @@ This repo contains the 75 most frequently asked LeetCode questions at top tech c
 - [x] = Completed
 
 ### **Array**
-- [ ] 1. [Two Sum](https://leetcode.com/problems/two-sum/) - Hash Map
-- [ ] 121. [Best Time to Buy/Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) - Sliding Window
-- [ ] 217. [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) - Hash Set
-- [ ] 238. [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) - Prefix/Suffix
-- [ ] 53. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) - Kadane's Algorithm
-- [ ] 152. [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) - DP
-- [ ] 153. [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) - Binary Search
-- [ ] 33. [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) - Binary Search
-- [ ] 15. [3Sum](https://leetcode.com/problems/3sum/) - Two Pointers
-- [ ] 11. [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) - Two Pointers
+- [ ] [1. Two Sum](https://leetcode.com/problems/two-sum/) - Hash Map
+- [ ] [121. Best Time to Buy/Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) - Sliding Window
+- [ ] [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) - Hash Set
+- [ ] [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) - Prefix/Suffix
+- [ ] [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) - Kadane's Algorithm
+- [ ] [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) - DP
+- [ ] [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) - Binary Search
+- [ ] [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) - Binary Search
+- [ ] [15. 3Sum](https://leetcode.com/problems/3sum/) - Two Pointers
+- [ ] [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) - Two Pointers
 
 ### **Binary**
-- [ ] 371. [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) - Bit Manipulation
-- [ ] 191. [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) - Bit Count
-- [ ] 338. [Counting Bits](https://leetcode.com/problems/counting-bits/) - DP + Bits
-- [ ] 268. [Missing Number](https://leetcode.com/problems/missing-number/) - XOR
-- [ ] 190. [Reverse Bits](https://leetcode.com/problems/reverse-bits/) - Bit Manipulation
+- [ ] [371. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) - Bit Manipulation
+- [ ] [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) - Bit Count
+- [ ] [338. Counting Bits](https://leetcode.com/problems/counting-bits/) - DP + Bits
+- [ ] [268. Missing Number](https://leetcode.com/problems/missing-number/) - XOR
+- [ ] [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/) - Bit Manipulation
 
 (full list continues in [PROGRESS.md](PROGRESS.md))
 

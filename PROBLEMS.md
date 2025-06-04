@@ -4,7 +4,7 @@
 |----|---------|------------|----------|-------------|-----------|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | Array | Hash Map | ✅.c ✅.cpp ✅.js ✅.py |
 | 2 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | Array | Hash Set | ✅.c ✅.cpp ✅.js ✅.py |
-| 3 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | Array | Prefix/Suffix | ❌.c ❌.cpp ❌.js ❌.py |
+| 3 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | Array | Prefix/Suffix | ✅.c ✅.cpp ✅.js ✅.py |
 | 4 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Easy | Array | Kadane's Algorithm | ❌.c ❌.cpp ❌.js ❌.py |
 | 5 | [Best Time to Buy/Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | Array | Sliding Window | ❌.c ❌.cpp ❌.js ❌.py |
 | 6 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | Medium | Array | DP | ❌.c ❌.cpp ❌.js ❌.py |

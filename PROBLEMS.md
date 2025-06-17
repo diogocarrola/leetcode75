@@ -9,7 +9,7 @@
 | 4 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | Prefix/Suffix | ✅.c ✅.cpp ✅.js ✅.py |
 | 5 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Easy | Kadane's Algorithm | ✅.c ✅.cpp ✅.js ✅.py |
 | 6 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | Medium | DP | ✅.c ✅.cpp ✅.js ✅.py |
-| 7 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Medium | Binary Search | ❌.c ❌.cpp ❌.js ❌.py |
+| 7 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Medium | Binary Search | ✅.c ✅.cpp ✅.js ✅.py |
 | 8 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium | Binary Search | ✅.c ✅.cpp ✅.js ✅.py |
 | 9 | [3Sum](https://leetcode.com/problems/3sum/) | Medium | Two Pointers | ✅.c ✅.cpp ✅.js ✅.py |
 | 10 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium | Two Pointers | ✅.c ✅.cpp ✅.js ✅.py |

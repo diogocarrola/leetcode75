@@ -17,7 +17,7 @@
 ### **Binary**
 | #  | Problem | Difficulty | Key Pattern | Solutions |
 |----|---------|------------|-------------|-----------|
-| 11 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | Medium | Bit Manipulation | ❌.c ❌.cpp ❌.js ❌.py |
+| 11 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | Medium | Bit Manipulation | ✅.c ✅.cpp ✅.js ✅.py |
 | 12 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | Easy | Bit Count | ❌.c ❌.cpp ❌.js ❌.py |
 | 13 | [Counting Bits](https://leetcode.com/problems/counting-bits/) | Easy | DP + Bits | ❌.c ❌.cpp ❌.js ❌.py |
 | 14 | [Missing Number](https://leetcode.com/problems/missing-number/) | Easy | XOR | ❌.c ❌.cpp ❌.js ❌.py |

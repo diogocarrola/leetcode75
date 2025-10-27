@@ -24,12 +24,16 @@
 - [ ] [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/) - Bit Manipulation
 
 ### **Dynamic Programming**
-- [ ] [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) - Fibonacci
+- [ ] [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) - Fibonacci DP
 - [ ] [322. Coin Change](https://leetcode.com/problems/coin-change/) - Unbounded Knapsack
 - [ ] [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) - Patience Sort
 - [ ] [139. Word Break](https://leetcode.com/problems/word-break/) - Memoization
 - [ ] [377. Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) - Permutation DP
 - [ ] [198. House Robber](https://leetcode.com/problems/house-robber/) - Classic DP
+- [ ] [213. House Robber II](https://leetcode.com/problems/house-robber-ii/) - Circular DP
+- [ ] [91. Decode Ways](https://leetcode.com/problems/decode-ways/) - String DP
+- [ ] [62. Unique Paths](https://leetcode.com/problems/unique-paths/) - Grid DP
+- [ ] [55. Jump Game](https://leetcode.com/problems/jump-game/) - Greedy/DP
 
 ### **Graphs**
 - [ ] [133. Clone Graph](https://leetcode.com/problems/clone-graph/) - DFS/BFS

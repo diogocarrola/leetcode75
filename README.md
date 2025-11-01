@@ -24,7 +24,7 @@ This repo contains the 75 most frequently asked LeetCode questions at top tech c
 - [ ] [371. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) - Bit Manipulation
 - [ ] [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) - Bit Count
 - [ ] [338. Counting Bits](https://leetcode.com/problems/counting-bits/) - DP + Bits
-- [ ] [268. Missing Number](https://leetcode.com/problems/missing-number/) - XOR
+- [ ] [268. Missing Number](https://leetcode.com/problems/missing-number/) - XOR & Sum
 - [ ] [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/) - Bit Manipulation
 
 (full list continues in [PROGRESS.md](PROGRESS.md))
